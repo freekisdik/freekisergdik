@@ -11,7 +11,7 @@ public class DikkeMensen {
 	}
 	public setBlackoe(){
 		
-		blackoe = "geel"
+		blackoe = "Zwart"
 				+ "rood";
 		
 	}
